@@ -1,0 +1,19 @@
+nav{
+    background-color: rgb(66, 132, 255);
+    
+    
+}
+.nav-center{
+    background-color: rgb(66, 255, 107);
+    width: fit-content;
+    align-self: center;
+}
+.nav-links{
+    list-style: none;
+    display: flex;
+    
+}
+
+main{
+    align-items: center;
+}
